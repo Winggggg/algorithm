@@ -1,13 +1,12 @@
 package com.wing.sort;
 
 import java.util.Arrays;
-import java.util.function.IntConsumer;
 
 /**
  * @author heweiye
  * @version 1.0
  * @Date 2019/11/29.
- * @description 冒泡排序
+ * @description 冒泡排序  https://juejin.im/post/5b95da8a5188255c775d8124#heading-40
  */
 public class BubbleSort {
 
