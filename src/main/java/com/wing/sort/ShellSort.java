@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author heweiye
  * @version 1.0
  * @Date 2019/11/29.
- * @description 希尔排序
+ * @description 希尔排序  https://juejin.im/post/5b95da8a5188255c775d8124#heading-32
  */
 public class ShellSort {
 
